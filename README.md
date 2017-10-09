@@ -1,4 +1,6 @@
 # The Node Beginner Book Repository
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fnodebeginner.org.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fnodebeginner.org?ref=badge_shield)
+
 
 
 ## About
@@ -28,3 +30,6 @@ All contents of this repository are licensed under a Creative Commons Attributio
 See http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US for more details.
 
 Please note that the commercially available Leanpub version of this book does NOT fall under the above license.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fnodebeginner.org.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fnodebeginner.org?ref=badge_large)
